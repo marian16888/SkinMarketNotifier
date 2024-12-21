@@ -1,5 +1,18 @@
+# Ignore appsettings files
+appsettings.json
+appsettings.Development.json
+
+# Ignore IDE configuration files
+encodings.xml
+indexLayout.xml
+vcs.xml
+
+# Ignore build output and packages
 bin/
 obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Ignore launch settings
+Properties/launchSettings.json
